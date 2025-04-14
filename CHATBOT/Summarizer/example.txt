@@ -1,0 +1,4 @@
+Artificial Intelligence is transforming industries by automating tasks and improving efficiency.', 
+ 'Businesses use AI for data analysis, customer service, and medical research.', 
+ 'Machine learning models help predict outcomes and improve decision-making.', 
+ 'However, AI also raises ethical concerns regarding privacy and bias in decision-making.
